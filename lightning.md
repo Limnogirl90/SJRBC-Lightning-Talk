@@ -8,7 +8,7 @@ institution
 # Purpose of the St. Joseph River Basin Web Map
 
 * https://data.sjrbc.com/
-* ![image](processLightning.jpg)
+![image](processLightning.jpg)
 
 # Goals of this talk
 
@@ -18,7 +18,7 @@ institution
 * graphing tool
 
 # Disclaimer
-* ![image](disclaimerSlide.jpg)
+![image](disclaimerSlide.jpg)
 * not all data included
 * nature of big data
 
@@ -39,6 +39,7 @@ institution
 # Thank you & questions!
 
 * contact: thewaterlistener@gmail.com
+
 
 
 
