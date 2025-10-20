@@ -1,32 +1,42 @@
-# Slide 1 - Purpose of the St. Joseph River Basin Web Map
+# St. Joseph River Basin Web Map Intro
 
-* 3rd-largest watershed of Lake Michigan
-* insert my diagram from PPT
+author
+:    Kate Barrett, PhD
+institution
+:    Holy Cross College @ Notre Dame
 
-# Slide 2 - Goals of this talk
+# Purpose of the St. Joseph River Basin Web Map
 
-* introduce map layout; 
+* https://data.sjrbc.com/
+* ![image](processLightning.jpg)
+
+# Goals of this talk
+
+* introduce map layout
 * variable display & selection
 * site selection
 - graph data
 
-# Slide 3 - Disclaimer
+# Disclaimer
 
 * not all data included
 * nature of big data
 
-# Slide 4 - Map Landing Page
+# Map Landing Page
 
 * Boundaries
 * Data points
 * tool tips
 
-# Slide 5 - Change Variable View
+# Change Variable View
 
-# Slide 6 - View Site Data
+# View Site Data
 
-# Slide 7 - Graph Site Data
+# Graph Site Data
 
-# Slide 8 - Return to main landing page
+# Return to main landing page
 
-# Slide 9 - Thank you & questions!
+# Thank you & questions!
+
+* contact: thewaterlistener@gmail.com
+
