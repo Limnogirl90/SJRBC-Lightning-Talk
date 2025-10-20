@@ -13,9 +13,9 @@ institution
 # Goals of this talk
 
 * introduce map layout
-* variable display & selection
+* variable display
 * site selection
-- graph data
+* graphing tool
 
 # Disclaimer
 
@@ -39,4 +39,5 @@ institution
 # Thank you & questions!
 
 * contact: thewaterlistener@gmail.com
+
 
