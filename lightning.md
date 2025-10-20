@@ -19,8 +19,6 @@ institution
 
 # Disclaimer
 ![image](disclaimerSlide.jpg)
-* not all data included
-* nature of big data
 
 # Map Landing Page
 
@@ -39,6 +37,7 @@ institution
 # Thank you & questions!
 
 * contact: thewaterlistener@gmail.com
+
 
 
 
