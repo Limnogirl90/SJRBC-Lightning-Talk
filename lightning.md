@@ -18,7 +18,7 @@ institution
 * graphing tool
 
 # Disclaimer
-
+* ![image](disclaimerSlide.jpg)
 * not all data included
 * nature of big data
 
@@ -39,5 +39,6 @@ institution
 # Thank you & questions!
 
 * contact: thewaterlistener@gmail.com
+
 
 
