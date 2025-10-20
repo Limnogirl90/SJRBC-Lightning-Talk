@@ -20,11 +20,11 @@ institution
 # Disclaimer
 ![image](disclaimerSlide.jpg)
 
-# Map Landing Page
+# Map Landing Page Interface
 
 * Boundaries
 * Data points
-* tool tips
+* Tool tips
 
 # Change Variable View
 
@@ -37,6 +37,7 @@ institution
 # Thank you & questions!
 
 * contact: thewaterlistener@gmail.com
+
 
 
 
